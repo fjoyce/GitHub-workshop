@@ -8,8 +8,9 @@ I am made some changes locally.
 
 Make some changes here! Or in the R script. Then...
 
+Save
 
-Add
+Add (stage)
 
 Commit
 
